@@ -1,4 +1,4 @@
-Django==4.0.9
+Django==4.1.7
 django-six==1.0.4
 entrypoints==0.4
 executing==0.8.3

@@ -8,7 +8,6 @@ Flask==2.3.2
 Flask-Login==0.6.1
 Flask-Mail==0.9.1
 Flask-SQLAlchemy==2.5.1
-greenlet==1.1.2
 ipykernel==6.13.1
 ipython==8.10.0
 ipython-genutils==0.2.0
@@ -38,7 +37,6 @@ parso==0.8.3
 pickleshare==0.7.5
 platformdirs==2.6.2
 prometheus-client==0.14.1
-prompt-toolkit==3.0.29
 psutil==5.9.1
 pure-eval==0.2.2
 pycparser==2.21
@@ -46,7 +44,6 @@ Pygments==2.12.0
 pyparsing==3.0.9
 pyrsistent==0.18.1
 python-dateutil==2.8.2
-pywin32==304
 pywinpty==2.0.5
 pyzmq==23.1.0
 qtconsole==5.3.1
@@ -65,5 +62,4 @@ tzdata==2022.1
 virtualenv==20.17.1
 wcwidth==0.2.5
 webencodings==0.5.1
-Werkzeug==2.2.3
 widgetsnbextension==3.6.0

@@ -56,7 +56,7 @@ sqlparse==0.4.4
 stack-data==0.2.0
 terminado==0.15.0
 tinycss2==1.1.1
-tornado==6.3.2
+tornado==6.3.3
 traitlets==5.2.2.post1
 tzdata==2022.1
 virtualenv==20.17.1
